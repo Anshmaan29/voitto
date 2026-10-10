@@ -1,0 +1,522 @@
+{
+  "properties": [
+    {
+      "name": "Akshay Garh",
+      "slug": "akshay-garh",
+      "source_gallery": "comp-lzssoy6j",
+      "images": [
+        {
+          "src": "/media/akshay-garh-1-1600.webp",
+          "srcSmall": "/media/akshay-garh-1-800.webp",
+          "srcSet": "/media/akshay-garh-1-800.webp 800w, /media/akshay-garh-1-1600.webp 1280w",
+          "dimensions": {
+            "800": [
+              800,
+              449
+            ],
+            "1600": [
+              1280,
+              718
+            ]
+          },
+          "bytes": 84502,
+          "source_id": "77cce0_1d9e6b352ece4e22b3835ddaec21c810~mv2.jpeg",
+          "source_file": "media/images/77cce0_1d9e6b352ece4e22b3835ddaec21c810~mv2.jpeg",
+          "original_property": "Akshay Garh"
+        },
+        {
+          "src": "/media/akshay-garh-2-1600.webp",
+          "srcSmall": "/media/akshay-garh-2-800.webp",
+          "srcSet": "/media/akshay-garh-2-800.webp 800w, /media/akshay-garh-2-1600.webp 1280w",
+          "dimensions": {
+            "800": [
+              800,
+              449
+            ],
+            "1600": [
+              1280,
+              718
+            ]
+          },
+          "bytes": 138856,
+          "source_id": "77cce0_2597a73a26de417c83bc97cc1f3bb9f6~mv2.jpeg",
+          "source_file": "media/images/77cce0_2597a73a26de417c83bc97cc1f3bb9f6~mv2.jpeg",
+          "original_property": "Akshay Garh"
+        },
+        {
+          "src": "/media/akshay-garh-3-1600.webp",
+          "srcSmall": "/media/akshay-garh-3-800.webp",
+          "srcSet": "/media/akshay-garh-3-800.webp 800w, /media/akshay-garh-3-1600.webp 1280w",
+          "dimensions": {
+            "800": [
+              800,
+              449
+            ],
+            "1600": [
+              1280,
+              718
+            ]
+          },
+          "bytes": 147244,
+          "source_id": "77cce0_b2573ad2880d427694f8c57836a15ec0~mv2.jpeg",
+          "source_file": "media/images/77cce0_b2573ad2880d427694f8c57836a15ec0~mv2.jpeg",
+          "original_property": "Akshay Garh"
+        }
+      ],
+      "videos": [
+        {
+          "src": "/media/akshay-garh-video-1.mp4",
+          "source_id": "77cce0_fedc2aea649d4e2db2415bb01006e3e6",
+          "source_file": "media/videos/77cce0_fedc2aea649d4e2db2415bb01006e3e6.mp4",
+          "original_property": "Akshay Garh",
+          "bytes": 1871161,
+          "poster": "/media/akshay-garh-video-1-poster-1600.webp"
+        },
+        {
+          "src": "/media/akshay-garh-video-2.mp4",
+          "source_id": "77cce0_ed2d7427844a43b4820aebf5f7b3e7b0",
+          "source_file": "media/videos/77cce0_ed2d7427844a43b4820aebf5f7b3e7b0.mp4",
+          "original_property": "Akshay Garh",
+          "bytes": 310991,
+          "poster": "/media/akshay-garh-video-2-poster-1600.webp"
+        }
+      ]
+    },
+    {
+      "name": "Villa Sol",
+      "slug": "villa-sol",
+      "source_gallery": "comp-lztthdgx",
+      "images": [
+        {
+          "src": "/media/villa-sol-1-1600.webp",
+          "srcSmall": "/media/villa-sol-1-800.webp",
+          "srcSet": "/media/villa-sol-1-800.webp 800w, /media/villa-sol-1-1600.webp 1176w",
+          "dimensions": {
+            "800": [
+              800,
+              1071
+            ],
+            "1600": [
+              1176,
+              1574
+            ]
+          },
+          "bytes": 334392,
+          "source_id": "77cce0_fa6039aa50ae4f2ea02d347952640417~mv2.jpeg",
+          "source_file": "media/images/77cce0_fa6039aa50ae4f2ea02d347952640417~mv2.jpeg",
+          "original_property": "Villa Sol"
+        },
+        {
+          "src": "/media/villa-sol-2-1600.webp",
+          "srcSmall": "/media/villa-sol-2-800.webp",
+          "srcSet": "/media/villa-sol-2-800.webp 800w, /media/villa-sol-2-1600.webp 1280w",
+          "dimensions": {
+            "800": [
+              800,
+              600
+            ],
+            "1600": [
+              1280,
+              960
+            ]
+          },
+          "bytes": 105024,
+          "source_id": "77cce0_3b6e591f13e448d78c8a75fe43f17e16~mv2.jpeg",
+          "source_file": "media/images/77cce0_3b6e591f13e448d78c8a75fe43f17e16~mv2.jpeg",
+          "original_property": "Villa Sol"
+        },
+        {
+          "src": "/media/villa-sol-3-1600.webp",
+          "srcSmall": "/media/villa-sol-3-800.webp",
+          "srcSet": "/media/villa-sol-3-800.webp 800w, /media/villa-sol-3-1600.webp 1280w",
+          "dimensions": {
+            "800": [
+              800,
+              600
+            ],
+            "1600": [
+              1280,
+              960
+            ]
+          },
+          "bytes": 113756,
+          "source_id": "77cce0_2c086448544c46b1b7ba9a2a797970d3~mv2.jpeg",
+          "source_file": "media/images/77cce0_2c086448544c46b1b7ba9a2a797970d3~mv2.jpeg",
+          "original_property": "Villa Sol"
+        }
+      ],
+      "videos": [
+        {
+          "src": "/media/villa-sol-video-1.mp4",
+          "source_id": "77cce0_4820395897d543788955cb84d19fefb0",
+          "source_file": "media/videos/77cce0_4820395897d543788955cb84d19fefb0.mp4",
+          "original_property": "Villa Sol",
+          "bytes": 2807040,
+          "poster": "/media/villa-sol-video-1-poster-1600.webp"
+        }
+      ]
+    },
+    {
+      "name": "Kurja Resort",
+      "slug": "kurja-resort",
+      "source_gallery": "comp-lzttmj48",
+      "images": [
+        {
+          "src": "/media/kurja-resort-1-1600.webp",
+          "srcSmall": "/media/kurja-resort-1-800.webp",
+          "srcSet": "/media/kurja-resort-1-800.webp 800w, /media/kurja-resort-1-1600.webp 1280w",
+          "dimensions": {
+            "800": [
+              800,
+              494
+            ],
+            "1600": [
+              1280,
+              791
+            ]
+          },
+          "bytes": 122616,
+          "source_id": "77cce0_fcb600a0dd9749b9b246564d8233d482~mv2.jpeg",
+          "source_file": "media/images/77cce0_fcb600a0dd9749b9b246564d8233d482~mv2.jpeg",
+          "original_property": "Kurja Resort"
+        },
+        {
+          "src": "/media/kurja-resort-2-1600.webp",
+          "srcSmall": "/media/kurja-resort-2-800.webp",
+          "srcSet": "/media/kurja-resort-2-800.webp 800w, /media/kurja-resort-2-1600.webp 1290w",
+          "dimensions": {
+            "800": [
+              800,
+              533
+            ],
+            "1600": [
+              1290,
+              860
+            ]
+          },
+          "bytes": 82388,
+          "source_id": "77cce0_1fec57cfeecd4600b475db2bfa60f79d~mv2.jpg",
+          "source_file": "media/images/77cce0_1fec57cfeecd4600b475db2bfa60f79d~mv2.jpg",
+          "original_property": "Kurja Resort"
+        },
+        {
+          "src": "/media/kurja-resort-3-1600.webp",
+          "srcSmall": "/media/kurja-resort-3-800.webp",
+          "srcSet": "/media/kurja-resort-3-800.webp 800w, /media/kurja-resort-3-1600.webp 1290w",
+          "dimensions": {
+            "800": [
+              800,
+              594
+            ],
+            "1600": [
+              1290,
+              958
+            ]
+          },
+          "bytes": 306952,
+          "source_id": "77cce0_44c8c7204ff143b394adfeba61557acd~mv2.jpg",
+          "source_file": "media/images/77cce0_44c8c7204ff143b394adfeba61557acd~mv2.jpg",
+          "original_property": "Kurja Resort"
+        },
+        {
+          "src": "/media/kurja-resort-4-1600.webp",
+          "srcSmall": "/media/kurja-resort-4-800.webp",
+          "srcSet": "/media/kurja-resort-4-800.webp 800w, /media/kurja-resort-4-1600.webp 1600w",
+          "dimensions": {
+            "800": [
+              800,
+              369
+            ],
+            "1600": [
+              1600,
+              739
+            ]
+          },
+          "bytes": 335060,
+          "source_id": "77cce0_e4e06785ddd24dc7a96bcf96e7685cd0~mv2.jpeg",
+          "source_file": "media/images/77cce0_e4e06785ddd24dc7a96bcf96e7685cd0~mv2.jpeg",
+          "original_property": "Kurja Resort"
+        }
+      ],
+      "videos": [
+        {
+          "src": "/media/kurja-resort-video-1.mp4",
+          "source_id": "77cce0_c63a5eaadb2b443b8225c26cd88a5a17",
+          "source_file": "media/videos/77cce0_c63a5eaadb2b443b8225c26cd88a5a17.mp4",
+          "original_property": "Kurja Resort",
+          "bytes": 5324426,
+          "poster": "/media/kurja-resort-video-1-poster-1600.webp"
+        }
+      ]
+    },
+    {
+      "name": "Lakshmi Palace",
+      "slug": "lakshmi-palace",
+      "source_gallery": "comp-mt2w91m7",
+      "images": [
+        {
+          "src": "/media/lakshmi-palace-1-1600.webp",
+          "srcSmall": "/media/lakshmi-palace-1-800.webp",
+          "srcSet": "/media/lakshmi-palace-1-800.webp 800w, /media/lakshmi-palace-1-1600.webp 960w",
+          "dimensions": {
+            "800": [
+              800,
+              1067
+            ],
+            "1600": [
+              960,
+              1280
+            ]
+          },
+          "bytes": 352862,
+          "source_id": "77cce0_67c761a108d140c18d832832f1298f22~mv2.jpeg",
+          "source_file": "media/images/77cce0_67c761a108d140c18d832832f1298f22~mv2.jpeg",
+          "original_property": "Lakshmi Palace"
+        },
+        {
+          "src": "/media/lakshmi-palace-2-1600.webp",
+          "srcSmall": "/media/lakshmi-palace-2-800.webp",
+          "srcSet": "/media/lakshmi-palace-2-800.webp 800w, /media/lakshmi-palace-2-1600.webp 960w",
+          "dimensions": {
+            "800": [
+              800,
+              1067
+            ],
+            "1600": [
+              960,
+              1280
+            ]
+          },
+          "bytes": 218830,
+          "source_id": "77cce0_c8d8856cf4004140b708a4a3f0db5ce4~mv2.jpeg",
+          "source_file": "media/images/77cce0_c8d8856cf4004140b708a4a3f0db5ce4~mv2.jpeg",
+          "original_property": "Lakshmi Palace"
+        },
+        {
+          "src": "/media/lakshmi-palace-3-1600.webp",
+          "srcSmall": "/media/lakshmi-palace-3-800.webp",
+          "srcSet": "/media/lakshmi-palace-3-800.webp 800w, /media/lakshmi-palace-3-1600.webp 960w",
+          "dimensions": {
+            "800": [
+              800,
+              1067
+            ],
+            "1600": [
+              960,
+              1280
+            ]
+          },
+          "bytes": 210764,
+          "source_id": "77cce0_3195970bf8d444ac96e72af329e7106c~mv2.jpeg",
+          "source_file": "media/images/77cce0_3195970bf8d444ac96e72af329e7106c~mv2.jpeg",
+          "original_property": "Lakshmi Palace"
+        }
+      ],
+      "videos": [
+        {
+          "src": "/media/lakshmi-palace-video-1.mp4",
+          "source_id": "77cce0_7cce99212bac45799b7f59e96736dae5",
+          "source_file": "media/videos/77cce0_7cce99212bac45799b7f59e96736dae5.mp4",
+          "original_property": "Lakshmi Palace",
+          "bytes": 2717237,
+          "poster": "/media/lakshmi-palace-video-1-poster-1600.webp"
+        }
+      ]
+    }
+  ],
+  "hero": {
+    "src": "/media/voitto-home-hero.mp4",
+    "source_id": "77cce0_ee80a9d95ae54a9c80edaf56243ae4ef",
+    "source_gallery": "comp-lzoih3hr",
+    "bytes": 5482836,
+    "poster": "/media/voitto-hero-poster-1600.webp",
+    "poster_source_id": "77cce0_fcb600a0dd9749b9b246564d8233d482~mv2.jpeg"
+  },
+  "founder": {
+    "src": "/media/founder-original-1600.webp",
+    "srcSmall": "/media/founder-original-800.webp",
+    "srcSet": "/media/founder-original-800.webp 800w, /media/founder-original-1600.webp 1022w",
+    "dimensions": {
+      "800": [
+        800,
+        1002
+      ],
+      "1600": [
+        1022,
+        1280
+      ]
+    },
+    "bytes": 299658,
+    "source_id": "77cce0_172f4629e92b4e3087306cd3a9665b73~mv2.jpeg",
+    "css": ".founder-portrait{position:relative;overflow:hidden;aspect-ratio:.84}.founder-portrait img{position:absolute;left:-3%;top:-2%;width:250%;max-width:none;height:auto}",
+    "css_note": "Original founder embed framing, visually inspected: portrait photograph is on left side of poster. Preserve this exact crop in CSS; optimized source remains unchanged."
+  },
+  "logo": {
+    "src": "/media/voitto-logo.webp",
+    "source_id": "77cce0_aec816ee1e484e0381be0440d579022b~mv2.png",
+    "original_source": "media/images/77cce0_aec816ee1e484e0381be0440d579022b~mv2.png",
+    "dimensions": [
+      300,
+      226
+    ],
+    "has_transparency": true,
+    "bytes": 31512
+  },
+  "destinations": [
+    {
+      "src": "/media/people-of-rajasthan-1600.webp",
+      "srcSmall": "/media/people-of-rajasthan-800.webp",
+      "srcSet": "/media/people-of-rajasthan-800.webp 800w, /media/people-of-rajasthan-1600.webp 1073w",
+      "dimensions": {
+        "800": [
+          800,
+          1193
+        ],
+        "1600": [
+          1073,
+          1600
+        ]
+      },
+      "bytes": 146898,
+      "title": "People of Rajasthan",
+      "source_id": "77cce0_134bc8740b7543a9b8d65e4808f43b95~mv2.jpg",
+      "source_section": "comp-lzqpxac6",
+      "source_file": "media/images/77cce0_134bc8740b7543a9b8d65e4808f43b95~mv2.jpg",
+      "original_use": "destinations"
+    },
+    {
+      "src": "/media/kumbhalgarh-fort-1600.webp",
+      "srcSmall": "/media/kumbhalgarh-fort-800.webp",
+      "srcSet": "/media/kumbhalgarh-fort-800.webp 800w, /media/kumbhalgarh-fort-1600.webp 1290w",
+      "dimensions": {
+        "800": [
+          800,
+          1160
+        ],
+        "1600": [
+          1290,
+          1871
+        ]
+      },
+      "bytes": 560964,
+      "title": "Kumbhalgarh Fort",
+      "source_id": "77cce0_2085846ada20451191e8185ac2b9ff02~mv2.jpeg",
+      "source_section": "comp-lzqq7dt8",
+      "source_file": "media/images/77cce0_2085846ada20451191e8185ac2b9ff02~mv2.jpeg",
+      "original_use": "destinations"
+    },
+    {
+      "src": "/media/palace-on-lake-1600.webp",
+      "srcSmall": "/media/palace-on-lake-800.webp",
+      "srcSet": "/media/palace-on-lake-800.webp 800w, /media/palace-on-lake-1600.webp 1290w",
+      "dimensions": {
+        "800": [
+          800,
+          1307
+        ],
+        "1600": [
+          1290,
+          2107
+        ]
+      },
+      "bytes": 192414,
+      "title": "Palace On Lake",
+      "source_id": "77cce0_d07bc630b60d4f57a2987501fe2a3dca~mv2.jpeg",
+      "source_section": "comp-lzqq782n",
+      "source_file": "media/images/77cce0_d07bc630b60d4f57a2987501fe2a3dca~mv2.jpeg",
+      "original_use": "destinations"
+    },
+    {
+      "src": "/media/kota-riverfront-1600.webp",
+      "srcSmall": "/media/kota-riverfront-800.webp",
+      "srcSet": "/media/kota-riverfront-800.webp 800w, /media/kota-riverfront-1600.webp 1290w",
+      "dimensions": {
+        "800": [
+          800,
+          442
+        ],
+        "1600": [
+          1290,
+          712
+        ]
+      },
+      "bytes": 141936,
+      "title": "Gem Of Rajasthan",
+      "source_id": "77cce0_a05ee41fcc1c4d679eb31a566927de78~mv2.jpeg",
+      "source_section": "comp-lzqqxbmb",
+      "source_file": "media/images/77cce0_a05ee41fcc1c4d679eb31a566927de78~mv2.jpeg",
+      "original_use": "destinations"
+    }
+  ],
+  "dining": [
+    {
+      "src": "/media/rajasthani-dining-1600.webp",
+      "srcSmall": "/media/rajasthani-dining-800.webp",
+      "srcSet": "/media/rajasthani-dining-800.webp 800w, /media/rajasthani-dining-1600.webp 1064w",
+      "dimensions": {
+        "800": [
+          800,
+          1203
+        ],
+        "1600": [
+          1064,
+          1600
+        ]
+      },
+      "bytes": 254580,
+      "title": "Balance of taste",
+      "source_id": "77cce0_b4178399816e4481bb5b395c8f9d7133~mv2.jpeg",
+      "source_section": "comp-lzs74iuf",
+      "source_file": "media/images/77cce0_b4178399816e4481bb5b395c8f9d7133~mv2.jpeg",
+      "original_use": "dining"
+    },
+    {
+      "src": "/media/dinner-on-the-dunes-1600.webp",
+      "srcSmall": "/media/dinner-on-the-dunes-800.webp",
+      "srcSet": "/media/dinner-on-the-dunes-800.webp 800w, /media/dinner-on-the-dunes-1600.webp 1600w",
+      "dimensions": {
+        "800": [
+          800,
+          800
+        ],
+        "1600": [
+          1600,
+          1600
+        ]
+      },
+      "bytes": 433666,
+      "title": "Dinner On The Dunes",
+      "source_id": "77cce0_9ddc50338bdf48b9bf556ddb2f7f1727~mv2.jpg",
+      "source_section": "comp-lzs74iuf",
+      "source_file": "media/images/77cce0_9ddc50338bdf48b9bf556ddb2f7f1727~mv2.jpg",
+      "original_use": "dining"
+    },
+    {
+      "src": "/media/sip-life-1600.webp",
+      "srcSmall": "/media/sip-life-800.webp",
+      "srcSet": "/media/sip-life-800.webp 800w, /media/sip-life-1600.webp 1600w",
+      "dimensions": {
+        "800": [
+          800,
+          436
+        ],
+        "1600": [
+          1600,
+          873
+        ]
+      },
+      "bytes": 202766,
+      "title": "Sip life's moments",
+      "source_id": "77cce0_8d6f9566dda5491abe26fd4692ecede3~mv2.png",
+      "source_section": "comp-lzs74iuf",
+      "source_file": "media/images/77cce0_8d6f9566dda5491abe26fd4692ecede3~mv2.png",
+      "original_use": "dining"
+    }
+  ],
+  "total_bytes": 24063197,
+  "notes": [
+    "All property assignments preserved from properties.json; media is never mixed between properties.",
+    "Dining images named Gemini in original Wix homepage remain the exact source-published assets; no AI archive substitutes used.",
+    "Founder source optimized unchanged. Implement visual crop through included original CSS framing."
+  ]
+}
