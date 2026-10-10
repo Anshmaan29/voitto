@@ -32,6 +32,7 @@ import {
 import { ContainerScroll } from "@/components/ui/container-scroll-animation";
 import { ScrollMemoryStack } from "@/components/ui/scroll-memory-stack";
 import { PropertyGallery } from "@/components/ui/property-gallery";
+import { PropertyPreview } from "@/components/ui/property-preview";
 import {
   WHATSAPP,
   PHONE,
@@ -191,22 +192,12 @@ function PropertyCard({
       viewport={{ once: true, amount: 0.1 }}
       transition={{ duration: 0.5 }}
     >
-      <button
-        className="property-image"
-        onClick={onOpen}
-        aria-label={`Explore ${property.name}`}
-      >
-        <motion.div
-          className="property-parallax"
-          style={reduced ? undefined : { y }}
-        >
-          <Picture name={property.cover} alt={property.coverAlt} />
-        </motion.div>
-        <span className="property-number">0{index + 1}</span>
-        <span className="gallery-hint">
-          View photos & films <ArrowUpRight size={18} />
-        </span>
-      </button>
+      <PropertyPreview
+        property={property}
+        index={index}
+        y={y}
+        onOpen={onOpen}
+      />
       <div className="property-info">
         <span className="eyebrow">{property.kind}</span>
         <div className="property-title">

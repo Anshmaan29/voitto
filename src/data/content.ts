@@ -44,10 +44,10 @@ export const properties: Property[] = [
       "Arched veranda looking towards the Aravalli Hills at Akshay Garh",
     amenities: ["Premium rooms", "Swimming pool", "Lawn & gazebo"],
     media: [
+      video("akshay-garh", 1, "A tour of Akshay Garh"),
       photo("akshay-garh", 2, "Arched veranda at Akshay Garh"),
       photo("akshay-garh", 3, "Gardens and gazebo at Akshay Garh"),
       photo("akshay-garh", 1, "Premium bedroom at Akshay Garh"),
-      video("akshay-garh", 1, "A tour of Akshay Garh"),
       video("akshay-garh", 2, "Another glimpse of Akshay Garh"),
     ],
   },
@@ -62,10 +62,10 @@ export const properties: Property[] = [
     coverAlt: "The exterior of Villa Sol",
     amenities: ["2 BHK villa", "Swimming pool", "Greenery & gazebo"],
     media: [
+      video("villa-sol", 1, "Villa Sol’s original website film"),
       photo("villa-sol", 1, "Villa Sol exterior"),
       photo("villa-sol", 2, "Bedroom at Villa Sol"),
       photo("villa-sol", 3, "A closer look at a Villa Sol bedroom"),
-      video("villa-sol", 1, "Villa Sol’s original website film"),
     ],
   },
   {
@@ -83,11 +83,11 @@ export const properties: Property[] = [
       "Salt lake safari",
     ],
     media: [
+      video("kurja-resort", 1, "A glimpse of Kurja Resort"),
       photo("kurja-resort", 1, "Kurja Resort pool at dusk"),
       photo("kurja-resort", 2, "Bedroom at Kurja Resort"),
       photo("kurja-resort", 3, "Birdlife featured in the Kurja Resort gallery"),
       photo("kurja-resort", 4, "Garden and gazebos at Kurja Resort"),
-      video("kurja-resort", 1, "A glimpse of Kurja Resort"),
     ],
   },
   {
@@ -101,10 +101,10 @@ export const properties: Property[] = [
     coverAlt: "The ornate lounge at Lakshmi Palace",
     amenities: ["Palace setting", "Luxurious rooms", "Swimming pool"],
     media: [
+      video("lakshmi-palace", 1, "Lakshmi Palace’s original website film"),
       photo("lakshmi-palace", 1, "Ornate lounge at Lakshmi Palace"),
       photo("lakshmi-palace", 2, "Interior of Lakshmi Palace"),
       photo("lakshmi-palace", 3, "A seating area at Lakshmi Palace"),
-      video("lakshmi-palace", 1, "Lakshmi Palace’s original website film"),
     ],
   },
 ];

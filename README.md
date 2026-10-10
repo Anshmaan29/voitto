@@ -35,7 +35,7 @@ The original WhatsApp short link `https://wa.link/s29inj` is preserved for gener
 
 The supplied animation examples were adapted into `scroll-expansion-hero.tsx`, `container-scroll-animation.tsx`, `text-scroll-animation.tsx` and `liquid-glass-button.tsx`. `scroll-memory-stack.tsx` adds a scroll-driven 3D property photo arrangement. The implementation follows the official [Motion AI Kit guidance](https://motion.dev/docs/ai-kit-install) and uses `motion/react`. Motion MCP and paid Motion+ components are not dependencies.
 
-The original examples' wheel interception and forced scroll position were removed. Native scrolling, keyboard navigation and visible focus remain available. A root `MotionConfig` respects the visitor's reduced-motion preference; decorative CSS movement is disabled under the same preference. The hero includes a pause control, pauses outside the viewport or in a hidden tab, and avoids automatic playback when reduced motion or data-saving mode is active. Gallery videos load only when selected and have native controls.
+The original examples' wheel interception and forced scroll position were removed. Native scrolling, keyboard navigation and visible focus remain available. A root `MotionConfig` respects the visitor's reduced-motion preference; decorative CSS movement is disabled under the same preference. The hero and property previews include play/pause controls, pause outside the viewport or in a hidden tab, and avoid automatic playback when reduced motion or data-saving mode is active. Each property uses its own main video as its muted preview and first gallery item. Gallery videos load only when selected and have native controls.
 
 ## Before changing the live domain
 

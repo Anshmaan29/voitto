@@ -537,6 +537,27 @@ section[id] {
 .property-card:nth-child(4) {
   padding-top: 120px;
 }
+.property-preview {
+  position: relative;
+}
+.property-film-control {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  z-index: 2;
+  display: grid;
+  place-items: center;
+  width: 44px;
+  height: 44px;
+  border-radius: 50%;
+  color: #fff;
+  background: #162c24c9;
+  backdrop-filter: blur(8px);
+  transition: background 0.2s ease;
+}
+.property-film-control:hover {
+  background: #162c24;
+}
 .property-image {
   width: 100%;
   height: 440px;
@@ -558,12 +579,15 @@ section[id] {
   top: -20px;
   left: 0;
 }
-.property-parallax img {
+.property-parallax img,
+.property-parallax video {
   height: 100%;
   width: 100%;
+  object-fit: cover;
   transition: transform 0.7s cubic-bezier(0.22, 1, 0.36, 1);
 }
-.property-image:hover img {
+.property-image:hover img,
+.property-image:hover video {
   transform: scale(1.04);
 }
 .property-image:after {
@@ -2602,6 +2626,7 @@ section[id] {
     transition: none !important;
   }
   .property-parallax img,
+  .property-parallax video,
   .destination-image img,
   .dining-card img {
     transform: none !important;
